@@ -1,19 +1,3 @@
-# 💰 FinTrack App
-
-A full-stack **personal finance dashboard** that helps users take control of their money — track income and expenses, set budget categories, and visualize spending habits through interactive charts.
-
----
-
-## 🚀 Features
-
-- 🔐 **User Authentication** — Secure login and registration
-- 💸 **Expense Tracking** — Log and categorize your spending
-- 💵 **Income Tracking** — Record multiple income sources
-- 📊 **Charts & Visualizations** — Understand your finances at a glance
-- 🗂️ **Budget Categories** — Organize transactions by category
-- 🧾 **Transaction History** — Full log of all financial activity
-
----
 
 ## 🛠️ Tech Stack
 
